@@ -1,7 +1,7 @@
 # Economic Analysis for Planners
 ## Module for CP 113-A (Fall 2019) 
 
-Instructors: Sara Hinkley
+Instructor: Sara Hinkley
 
 **Team Lead:** Elias Saravia 
 
