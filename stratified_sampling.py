@@ -3,7 +3,7 @@ import pandas as pd
 def takeTableSample(data, column, feature, year):
     data = data[data['Year'] == year]
     percentage = data[column].value_counts(normalize=True, sort=True)[feature]
-    sample_size = 160000 * percentage
+    sample_size = 60000 * percentage
     data = data[data[column] == feature]
     return data.sample(int(sample_size))
 
