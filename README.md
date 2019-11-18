@@ -1,4 +1,4 @@
-# Economic Analysis for Planners
+# Analyzing the American Community Survey (ACS)
 ## Module for CP 113-A (Fall 2019) 
 
 Instructor: Sara Hinkley
